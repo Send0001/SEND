@@ -1,0 +1,4 @@
+{
+  "gitGraph.verboseLogging": true,
+  "gitGraph.repositoryBrowser": "github" // Se usar GitHub
+}
